@@ -1,5 +1,7 @@
 # Welcome to Cloud Captain! ☁️⚓
 
+<img src="https://github.com/CloudCaptains/CloudCaptain/blob/main/Images/image.jpg" align="right" width="300">
+
 ## Introduction:
 
 Welcome aboard, Cloud Captains! 🚀 This community is a gathering ground for passionate individuals navigating the ever-evolving skies of cloud computing, DevOps, and all things tech-related.
